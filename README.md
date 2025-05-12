@@ -10,7 +10,7 @@ To extract insights about revenue performance across different product lines and
 - Filtered by client type: Wholesale
 
 ## 🛠️ Technologies Used
-- PostgreSQL (or your SQL flavor)
+- PostgreSQL 
 - SQL aggregate functions (SUM)
 - CASE statements
 - Filtering and grouping
